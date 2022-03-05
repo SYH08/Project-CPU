@@ -1,2 +1,2 @@
 # Project-CPU
-![CPUico] (.\res\ico\CPU ico.png)
+![CPUico] (.\Res\ico\CPU ico.png)
