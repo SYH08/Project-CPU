@@ -1,2 +1,2 @@
 # Project-CPU
-![CPUico] (.\Res\ico\CPU ico.png)
+![CPUico] (https://github.com/SYH08/Project-CPU/blob/main/Res/ico/CPU%20ico.png?raw=true)
